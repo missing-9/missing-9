@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missing-9&title_color=35edfb&icon_color=ffff00&text_color=ff66cc&bg_color=2a1739&hide=html)]
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=missing-9&show_icons=true&title_color=35edfb&icon_color=ffff00&text_color=ff66cc&bg_color=2a1739)]
