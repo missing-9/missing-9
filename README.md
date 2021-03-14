@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Shanghai
+- 🔭 I’m living in Shanghai
 - 🌱 I’m currently learning algorithm
 - 👯 I’m looking to collaborate on Golanger 
 - 💬 Ask me about Java Development
