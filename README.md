@@ -2,11 +2,11 @@
 
 <img align="right" width="290" src="https://i.imgur.com/ugWb6BU.gif" />
 
-- 🔭 I’m living in Shanghai
 - 🌱 I’m currently learning web3
 - 👯 I’m looking to collaborate on DAOer 
 - 💬 Ask me about Java Development
 - 📫 Reach me by email: qlgxljz@sina.com
+- 🔭 my note: https://mirror.xyz/0xf67dEA6e891b41C8071D552Ee1852574f83950DB
 
 ## **☕ GitHub Estatísticas**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missing-9&title_color=35edfb&icon_color=ffff00&text_color=ff66cc&bg_color=2a1739&hide=html)
