@@ -3,8 +3,8 @@
 <img align="right" width="290" src="https://i.imgur.com/ugWb6BU.gif" />
 
 - 🔭 I’m living in Shanghai
-- 🌱 I’m currently learning algorithm
-- 👯 I’m looking to collaborate on Golanger 
+- 🌱 I’m currently learning web3
+- 👯 I’m looking to collaborate on DAOer 
 - 💬 Ask me about Java Development
 - 📫 Reach me by email: qlgxljz@sina.com
 
