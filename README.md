@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on DAOer 
 - 💬 Ask me about Java Development
 - 📫 Reach me by email: qlgxljz@sina.com
-- 🔭 my note: https://mirror.xyz/0xf67dEA6e891b41C8071D552Ee1852574f83950DB
+<!-- - 🔭 my note: https://mirror.xyz/0xf67dEA6e891b41C8071D552Ee1852574f83950DB -->
 
 #### master
 ![Java](https://img.shields.io/badge/Java-C76D00?style=flat-square&logo=Java&logoColor=white)
